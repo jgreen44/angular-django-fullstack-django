@@ -1,0 +1,8 @@
+asgiref==3.2.10
+certifi==2020.6.20
+Django==3.1
+djangorestframework==3.11.1
+psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+pytz==2020.1
+sqlparse==0.3.1
+wincertstore==0.2
